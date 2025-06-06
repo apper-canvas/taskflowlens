@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Design",
+    "color": "#8b5cf6",
+    "taskCount": 3
+  },
+  {
+    "id": "2",
+    "name": "Meetings",
+    "color": "#06b6d4",
+    "taskCount": 4
+  },
+  {
+    "id": "3",
+    "name": "Development",
+    "color": "#10b981",
+    "taskCount": 5
+  },
+  {
+    "id": "4",
+    "name": "Marketing",
+    "color": "#f59e0b",
+    "taskCount": 2
+  },
+  {
+    "id": "5",
+    "name": "HR",
+    "color": "#ef4444",
+    "taskCount": 1
+  },
+  {
+    "id": "6",
+    "name": "Planning",
+    "color": "#6366f1",
+    "taskCount": 0
+  }
+]
